@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0002-add-two-numbers) |
 | [0909-stone-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0909-stone-game) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Array
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2887-sort-vowels-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
