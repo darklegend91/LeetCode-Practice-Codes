@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0002-add-two-numbers) |
 | [0909-stone-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0909-stone-game) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [3462-vowels-game-in-a-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/3462-vowels-game-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -21,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0909-stone-game) |
+| [3462-vowels-game-in-a-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -37,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0002-add-two-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
