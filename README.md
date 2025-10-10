@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0909-stone-game) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2238-a-number-after-a-double-reversal) |
+| [2630-alternating-digit-sum](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2630-alternating-digit-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/3462-vowels-game-in-a-string) |
 ## Array
 |  |
