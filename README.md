@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0130-surrounded-regions) |
 | [0909-stone-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0909-stone-game) |
 | [1036-rotting-oranges](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1036-rotting-oranges) |
@@ -88,5 +89,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0130-surrounded-regions) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
