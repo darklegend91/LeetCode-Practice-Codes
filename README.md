@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0516-longest-palindromic-subsequence) |
 | [0909-stone-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0516-longest-palindromic-subsequence) |
 | [2887-sort-vowels-in-a-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
