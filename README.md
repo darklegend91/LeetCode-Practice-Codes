@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0130-surrounded-regions) |
 | [0909-stone-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0909-stone-game) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0516-longest-palindromic-subsequence) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
