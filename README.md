@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0070-climbing-stairs) |
 | [0909-stone-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0909-stone-game) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2238-a-number-after-a-double-reversal) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0516-longest-palindromic-subsequence) |
 | [0909-stone-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0909-stone-game) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0392-is-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
