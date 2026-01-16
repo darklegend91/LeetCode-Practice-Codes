@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0394-decode-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search Tree
 |  |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0055-jump-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
