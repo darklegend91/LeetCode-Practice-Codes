@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0130-surrounded-regions) |
 | [0455-assign-cookies](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0860-lemonade-change) |
 | [0909-stone-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0909-stone-game) |
 | [1036-rotting-oranges](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0860-lemonade-change) |
 ## Sliding Window
 |  |
 | ------- |
