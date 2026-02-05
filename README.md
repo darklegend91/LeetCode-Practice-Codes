@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0516-longest-palindromic-subsequence) |
 | [2887-sort-vowels-in-a-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2887-sort-vowels-in-a-string) |
+| [3110-score-of-a-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/3110-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
