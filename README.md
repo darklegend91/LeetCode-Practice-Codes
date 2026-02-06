@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0516-longest-palindromic-subsequence) |
 | [2887-sort-vowels-in-a-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2887-sort-vowels-in-a-string) |
+| [2938-separate-black-and-white-balls](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2938-separate-black-and-white-balls) |
 | [3110-score-of-a-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/3110-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0455-assign-cookies) |
+| [2938-separate-black-and-white-balls](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2938-separate-black-and-white-balls) |
 ## Memoization
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0860-lemonade-change) |
+| [2938-separate-black-and-white-balls](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2938-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
 | ------- |
