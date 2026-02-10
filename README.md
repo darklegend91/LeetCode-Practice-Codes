@@ -78,11 +78,13 @@ _No hard problems solved yet._
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1480-running-sum-of-1d-array) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1480-running-sum-of-1d-array) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
