@@ -9,12 +9,16 @@ class Solution {
             int first = booking[0];
             int last = booking[1];
             int seats = booking[2];
-            for (int i = first-1 ; i<= last-1; i++)
+            ans[first-1] += seats;
+            if (last < n)
             {
-                ans[i] += seats;
+            ans[last] = ans[last] - seats;
             }
         }
-
+        for (int i = 1 ; i< n; i++)
+        {
+            ans[i] +=ans[i-1];
+        }
         return ans;
         
     }
