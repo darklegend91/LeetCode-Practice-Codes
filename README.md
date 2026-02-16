@@ -88,6 +88,7 @@ _No hard problems solved yet._
 | [0303-range-sum-query-immutable](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0303-range-sum-query-immutable) |
 | [1109-corporate-flight-bookings](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1480-running-sum-of-1d-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Two Pointers
 |  |
@@ -101,4 +102,8 @@ _No hard problems solved yet._
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0303-range-sum-query-immutable) |
+## String
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
