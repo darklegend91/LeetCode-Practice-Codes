@@ -106,9 +106,14 @@ _No hard problems solved yet._
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0303-range-sum-query-immutable) |
 ## String
 |  |
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2483-minimum-penalty-for-a-shop) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
