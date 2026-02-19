@@ -80,6 +80,7 @@ _No hard problems solved yet._
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0303-range-sum-query-immutable) |
+| [0739-daily-temperatures](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0739-daily-temperatures) |
 | [0941-valid-mountain-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0941-valid-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1480-running-sum-of-1d-array) |
@@ -116,4 +117,9 @@ _No hard problems solved yet._
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
