@@ -122,4 +122,12 @@ _No hard problems solved yet._
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
