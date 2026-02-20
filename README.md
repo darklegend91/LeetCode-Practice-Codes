@@ -85,6 +85,7 @@ _No hard problems solved yet._
 | [1109-corporate-flight-bookings](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1920-build-array-from-permutation) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Prefix Sum
 |  |
@@ -99,6 +100,7 @@ _No hard problems solved yet._
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Binary Search
 |  |
 | ------- |
