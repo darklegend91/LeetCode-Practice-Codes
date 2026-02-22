@@ -100,6 +100,7 @@ _No hard problems solved yet._
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Binary Search
@@ -116,6 +117,7 @@ _No hard problems solved yet._
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0125-valid-palindrome) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Stack
 |  |
