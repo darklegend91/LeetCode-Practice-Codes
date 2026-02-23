@@ -80,6 +80,7 @@ _No hard problems solved yet._
 | [0066-plus-one](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0303-range-sum-query-immutable) |
 | [0739-daily-temperatures](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0739-daily-temperatures) |
 | [0941-valid-mountain-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0941-valid-mountain-array) |
@@ -103,6 +104,7 @@ _No hard problems solved yet._
 | [0125-valid-palindrome](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0287-find-the-duplicate-number) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Binary Search
 |  |
@@ -110,6 +112,7 @@ _No hard problems solved yet._
 | [0033-search-in-rotated-sorted-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -150,4 +153,8 @@ _No hard problems solved yet._
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
