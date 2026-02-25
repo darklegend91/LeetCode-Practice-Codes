@@ -83,6 +83,7 @@ _No hard problems solved yet._
 | [0287-find-the-duplicate-number](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0303-range-sum-query-immutable) |
 | [0739-daily-temperatures](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0941-valid-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1480-running-sum-of-1d-array) |
@@ -113,6 +114,7 @@ _No hard problems solved yet._
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0287-find-the-duplicate-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Design
 |  |
 | ------- |
