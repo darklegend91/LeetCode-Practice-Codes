@@ -162,5 +162,6 @@ _No hard problems solved yet._
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
