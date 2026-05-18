@@ -77,6 +77,7 @@ _No hard problems solved yet._
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0238-product-of-array-except-self) |
@@ -102,6 +103,7 @@ _No hard problems solved yet._
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -128,11 +130,13 @@ _No hard problems solved yet._
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
@@ -164,4 +168,8 @@ _No hard problems solved yet._
 | ------- |
 | [0175-combine-two-tables](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0176-second-highest-salary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
