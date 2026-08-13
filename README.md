@@ -126,6 +126,7 @@ _No hard problems solved yet._
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0125-valid-palindrome) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Stack
 |  |
@@ -133,6 +134,7 @@ _No hard problems solved yet._
 | [0042-trapping-rain-water](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
