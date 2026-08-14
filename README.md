@@ -121,6 +121,7 @@ _No hard problems solved yet._
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0303-range-sum-query-immutable) |
 ## String
 |  |
@@ -133,6 +134,7 @@ _No hard problems solved yet._
 | ------- |
 | [0042-trapping-rain-water](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -174,4 +176,8 @@ _No hard problems solved yet._
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/darklegend91/LeetCode-Practice-Codes/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
